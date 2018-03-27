@@ -18,6 +18,7 @@ The code bundle for this course is available at https://github.com/PacktPublishi
 <LI>Get familiar with basic DevOps and Web Operations practices </LI></UL></DIV>
 
 ## Instructions and Navigation
+
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <LI>Basic knowledge of Java Programming Language
