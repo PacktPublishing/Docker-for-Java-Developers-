@@ -26,7 +26,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Software requirements:
 <LI>Java JDK 1.8
 <LI>Intellij IDE
 <LI>Docker 
