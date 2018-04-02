@@ -12,10 +12,14 @@ The code bundle for this course is available at https://github.com/PacktPublishi
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Explore various tools and techniques to enable you to build Docker images in a jiffy 
-<LI>Deploy your containers to your production environment with speed and stability 
-<LI>Work with Linux tools for debugging and interacting with containers 
-<LI>Get familiar with basic DevOps and Web Operations practices </LI></UL></DIV>
+<LI>Understand the problems that Docker solves and make your foundation strong
+<LI>Know when to use Docker and install Docker on your local machine
+<LI>Build and run your first container
+<LI>Integrate Docker with Docker-maven-plugin
+<LI>See how to create Dockerfiles that can be containerized
+<LI>Explore Docker to automate, build, and deploy more complex distributed architectures
+<LI>Handle persistence inside Docker images
+<LI>Build a distributed architecture using swarm with Docker </LI></UL></DIV>
 
 ## Instructions and Navigation
 
