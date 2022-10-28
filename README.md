@@ -48,7 +48,3 @@ System configuration:
 * [Optimizing Docker Workflows [Video]](https://www.packtpub.com/virtualization-and-cloud/optimizing-docker-workflows-video?utm_source=github&utm_medium=repository&utm_campaign=9781788627542)
 
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788629492">https://packt.link/free-ebook/9781788629492 </a> </p>
